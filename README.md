@@ -8,7 +8,7 @@ with Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository using the PIONUX OS trees, use a command like this:
 
-    repo init -u git://github.com/pionuxos/manifest.git -b pionuxos-android-8.1
+    repo init -u git://github.com/pionuxos/manifest.git -b master
 
 Then to sync up:
 
