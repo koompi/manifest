@@ -7,7 +7,7 @@
 
   <remote  name="pionuxos"
            fetch="https://github.com/koompi"
-           revision="pionuxos-android-8.1" />
+           revision="master" />
 
   <project path="build/make" name="android_platform_build" remote="pionuxos" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
